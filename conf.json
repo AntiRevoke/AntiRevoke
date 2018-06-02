@@ -2,8 +2,7 @@
 	{
 		"type": "block",
 		"domains": [
-			"ocsp.apple.com",
-			"mesu.apple.com"
+			"ocsp.apple.com"
 		]
 	}
 ]
