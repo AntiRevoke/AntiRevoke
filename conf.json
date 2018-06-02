@@ -3,7 +3,9 @@
 		"type": "block",
 		"domains": [
 			"ocsp.apple.com",
-			"mesu.apple.com"
+			"mesu.apple.com",
+			"google.com.au",
+			"google.com"
 		]
 	}
 ]
