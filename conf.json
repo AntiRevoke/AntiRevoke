@@ -3,8 +3,7 @@
 		"type": "block",
 		"domains": [
 			"ocsp.apple.com",
-			"mesu.apple.com",
-			"itunes.apple.com"
+			"mesu.apple.com"
 		]
 	}
 ]
